@@ -1,0 +1,124 @@
+Command Line Arguments:
+     dir = uploaded_images/ 
+    arch = vgg 
+ dogfile = dognames.txt
+great
+dane
+05320.jpg
+beagle
+01125.jpg
+collie
+03797.jpg
+dalmatian
+04068.jpg
+miniature
+schnauzer
+06884.jpg
+german
+shepherd
+dog
+04890.jpg
+basenji
+00963.jpg
+cat
+02.jpg
+golden
+retriever
+05223.jpg
+great
+horned
+owl
+02.jpg
+basset
+hound
+01034.jpg
+cocker
+spaniel
+03750.jpg
+poodle
+07927.jpg
+beagle
+01141.jpg
+saint
+bernard
+08010.jpg
+boxer
+02426.jpg
+great
+pyrenees
+05367.jpg
+german
+shorthaired
+pointer
+04986.jpg
+dalmatian
+04037.jpg
+fox
+squirrel
+01.jpg
+polar
+bear
+04.jpg
+basenji
+00974.jpg
+saint
+bernard
+08036.jpg
+beagle
+01170.jpg
+gecko
+02.jpg
+boston
+terrier
+02285.jpg
+golden
+retriever
+05195.jpg
+golden
+retriever
+05182.jpg
+dalmatian
+04017.jpg
+golden
+retriever
+05257.jpg
+boston
+terrier
+02259.jpg
+gecko
+80.jpg
+poodle
+07956.jpg
+great
+pyrenees
+05435.jpg
+cat
+01.jpg
+boston
+terrier
+02303.jpg
+skunk
+029.jpg
+cat
+07.jpg
+rabbit
+002.jpg
+german
+shepherd
+dog
+04931.jpg
+{'Great_dane_05320.jpg': ['great dane'], 'Beagle_01125.jpg': ['beagle'], 'Collie_03797.jpg': ['collie'], 'Dalmatian_04068.jpg': ['dalmatian'], 'Miniature_schnauzer_06884.jpg': ['miniature schnauzer'], 'German_shepherd_dog_04890.jpg': ['german shepherd dog'], 'Basenji_00963.jpg': ['basenji'], 'cat_02.jpg': ['cat'], 'Golden_retriever_05223.jpg': ['golden retriever'], 'great_horned_owl_02.jpg': ['great horned owl'], 'Basset_hound_01034.jpg': ['basset hound'], 'Cocker_spaniel_03750.jpg': ['cocker spaniel'], 'Poodle_07927.jpg': ['poodle'], 'Beagle_01141.jpg': ['beagle'], 'Saint_bernard_08010.jpg': ['saint bernard'], 'Boxer_02426.jpg': ['boxer'], 'Great_pyrenees_05367.jpg': ['great pyrenees'], 'German_shorthaired_pointer_04986.jpg': ['german shorthaired pointer'], 'Dalmatian_04037.jpg': ['dalmatian'], 'fox_squirrel_01.jpg': ['fox squirrel'], 'polar_bear_04.jpg': ['polar bear'], 'Basenji_00974.jpg': ['basenji'], 'Saint_bernard_08036.jpg': ['saint bernard'], 'Beagle_01170.jpg': ['beagle'], 'gecko_02.jpg': ['gecko'], 'Boston_terrier_02285.jpg': ['boston terrier'], 'Golden_retriever_05195.jpg': ['golden retriever'], 'Golden_retriever_05182.jpg': ['golden retriever'], 'Dalmatian_04017.jpg': ['dalmatian'], 'Golden_retriever_05257.jpg': ['golden retriever'], 'Boston_terrier_02259.jpg': ['boston terrier'], 'gecko_80.jpg': ['gecko'], 'Poodle_07956.jpg': ['poodle'], 'Great_pyrenees_05435.jpg': ['great pyrenees'], 'cat_01.jpg': ['cat'], 'Boston_terrier_02303.jpg': ['boston terrier'], 'skunk_029.jpg': ['skunk'], 'cat_07.jpg': ['cat'], 'Rabbit_002.jpg': ['rabbit'], 'German_shepherd_dog_04931.jpg': ['german shepherd dog']}
+
+Pet Image Label Dictionary has 40 key-value pairs.
+Below are 10 of them:
+ 1 key:           Great_dane_05320.jpg  label:                 great dane
+ 2 key:               Beagle_01125.jpg  label:                     beagle
+ 3 key:               Collie_03797.jpg  label:                     collie
+ 4 key:            Dalmatian_04068.jpg  label:                  dalmatian
+ 5 key:  Miniature_schnauzer_06884.jpg  label:        miniature schnauzer
+ 6 key:  German_shepherd_dog_04890.jpg  label:        german shepherd dog
+ 7 key:              Basenji_00963.jpg  label:                    basenji
+ 8 key:                     cat_02.jpg  label:                        cat
+ 9 key:     Golden_retriever_05223.jpg  label:           golden retriever
+10 key:        great_horned_owl_02.jpg  label:           great horned owl
+{'Great_dane_05320.jpg': ['great dane'], 'Beagle_01125.jpg': ['beagle'], 'Collie_03797.jpg': ['collie'], 'Dalmatian_04068.jpg': ['dalmatian'], 'Miniature_schnauzer_06884.jpg': ['miniature schnauzer'], 'German_shepherd_dog_04890.jpg': ['german shepherd dog'], 'Basenji_00963.jpg': ['basenji'], 'cat_02.jpg': ['cat'], 'Golden_retriever_05223.jpg': ['golden retriever'], 'great_horned_owl_02.jpg': ['great horned owl'], 'Basset_hound_01034.jpg': ['basset hound'], 'Cocker_spaniel_03750.jpg': ['cocker spaniel'], 'Poodle_07927.jpg': ['poodle'], 'Beagle_01141.jpg': ['beagle'], 'Saint_bernard_08010.jpg': ['saint bernard'], 'Boxer_02426.jpg': ['boxer'], 'Great_pyrenees_05367.jpg': ['great pyrenees'], 'German_shorthaired_pointer_04986.jpg': ['german shorthaired pointer'], 'Dalmatian_04037.jpg': ['dalmatian'], 'fox_squirrel_01.jpg': ['fox squirrel'], 'polar_bear_04.jpg': ['polar bear'], 'Basenji_00974.jpg': ['basenji'], 'Saint_bernard_08036.jpg': ['saint bernard'], 'Beagle_01170.jpg': ['beagle'], 'gecko_02.jpg': ['gecko'], 'Boston_terrier_02285.jpg': ['boston terrier'], 'Golden_retriever_05195.jpg': ['golden retriever'], 'Golden_retriever_05182.jpg': ['golden retriever'], 'Dalmatian_04017.jpg': ['dalmatian'], 'Golden_retriever_05257.jpg': ['golden retriever'], 'Boston_terrier_02259.jpg': ['boston terrier'], 'gecko_80.jpg': ['gecko'], 'Poodle_07956.jpg': ['poodle'], 'Great_pyrenees_05435.jpg': ['great pyrenees'], 'cat_01.jpg': ['cat'], 'Boston_terrier_02303.jpg': ['boston terrier'], 'skunk_029.jpg': ['skunk'], 'cat_07.jpg': ['cat'], 'Rabbit_002.jpg': ['rabbit'], 'German_shepherd_dog_04931.jpg': ['german shepherd dog']}
