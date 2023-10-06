@@ -102,7 +102,7 @@ def classify_images(images_dir, results_dic, model):
        #
        # If the pet image label is found within the classifier label list of terms 
        # as an exact match to on of the terms in the list - then they are added to 
-       # results_dic as an exact match(1) using extend list function
+       # results_dic as an exact match(1) using extend list function is working
        if truth in model_label:
            pass
 
